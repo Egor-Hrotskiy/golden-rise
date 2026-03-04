@@ -1,4 +1,4 @@
-<img align="center" src='screenshots/golden_rise.png' width = "50%" />
+<img src='screenshots/golden_rise.png' width = "50%" />
 
 ### Simple platformer game using C and Raylib made by a team of three.
 <details>
@@ -98,7 +98,7 @@ This project was given as a task for one of our university classes so it was mad
 
 
 
-<img align="center" alt="screenshot of the main charcater waving" src='screenshots/character_waving.png'/>
+<img alt="screenshot of the main charcater waving" src='screenshots/character_waving.png'/>
 <br>
 <h3 align=center>Hope you enjoy it</h3>
 <br>
