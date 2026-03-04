@@ -75,19 +75,20 @@ This project was given as a task for one of our university classes so it was mad
 
 ## Team
 
-<div align="center">
-  <a href="https://github.com/sosonskyi1"> 
-    <img src="https://avatars.githubusercontent.com/u/258892833?v=4" 
-         style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover;" 
-         alt="Profile Picture"> 
-  </a>
-  
-  <a href="GITHUB_URL_HERE"> 
-    <img src="GITHUB_IMAGE_URL_HERE" 
-         style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover;" 
-         alt="Profile Picture"> 
-  </a>
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/sosonskyi1">
+        <img src="https://avatars.githubusercontent.com/u/258892833?v=4" width="150px;" alt="Team member profile picture"/><br />
+      </a>
+    </td>
+    <td align="center">
+      <a href="">
+        <img src="" width="150px;" alt="Team member profile picture"/><br />
+      </a>
+    </td>
+  </tr>
+</table>
 <p align="right"><a href="#simple-platformer-game-using-c-and-raylib-made-by-a-team-of-three">(back to the top)</a> </p>
 
 ## License
