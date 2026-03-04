@@ -75,25 +75,18 @@ This project was given as a task for one of our university classes so it was mad
 
 ## Team
 
-<style>
-    .photos {
-  display: inline-block;
-  position: relative;
-  width: 200px;
-  height: 200px;
-  overflow: hidden;
-  border-radius: 50%;
-    }
-</style>
-<div class="photos">
-<a href="https://github.com/sosonskyi1"> 
-  <img src="https://avatars.githubusercontent.com/u/258892833?v=4"> 
-</a> 
-</div>
-<div class="photos">
-<a href="Github Profile url"> 
-  <img href="Github profile image soure"> 
-</a> 
+<div align="center">
+  <a href="https://github.com/sosonskyi1"> 
+    <img src="https://avatars.githubusercontent.com/u/258892833?v=4" 
+         style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover;" 
+         alt="Profile Picture"> 
+  </a>
+  
+  <a href="GITHUB_URL_HERE"> 
+    <img src="GITHUB_IMAGE_URL_HERE" 
+         style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover;" 
+         alt="Profile Picture"> 
+  </a>
 </div>
 <p align="right"><a href="#simple-platformer-game-using-c-and-raylib-made-by-a-team-of-three">(back to the top)</a> </p>
 
