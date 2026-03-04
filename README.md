@@ -63,10 +63,10 @@ This project was given as a task for one of our university classes so it was mad
 ## Installation
 ### 1. Clone the repository
     git clone https://github.com/Egor-Hrotskiy/golden-rise.git
-### 2. Compile the game
-    make
-### 3. Navigate into the repository
+### 2. Navigate into the repository
     cd golden-rise
+### 3. Compile the game
+    make
 ### 4. Launch the game
     ./endgame
 ### 5. Clean up
