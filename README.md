@@ -75,16 +75,16 @@ This project was given as a task for one of our university classes so it was mad
 
 ## Team
 
-<table align="center">
+<table align="center" border="0">
   <tr>
-    <td align="center">
+    <td align="center" style="border: none;">
       <a href="https://github.com/sosonskyi1">
-        <img src="https://avatars.githubusercontent.com/u/258892833?v=4" width="150px;" alt="Team member profile picture"/><br />
+        <img src="https://avatars.githubusercontent.com/u/258892833?v=4" width="150" alt="Team member profile picture"/>
       </a>
     </td>
-    <td align="center">
+    <td align="center" style="border: none;">
       <a href="">
-        <img src="" width="150px;" alt="Team member profile picture"/><br />
+        <img src="" width="150" alt="Team member profile picture"/>
       </a>
     </td>
   </tr>
