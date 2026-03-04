@@ -75,7 +75,7 @@ This project was given as a task for one of our university classes so it was mad
 
 ## Team
 
-<table align="center" border="white">
+<table align="center" border="none">
   <tr>
     <td align="center" style="border: none;">
       <a href="https://github.com/sosonskyi1">
