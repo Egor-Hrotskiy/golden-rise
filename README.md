@@ -65,9 +65,11 @@ This project was given as a task for one of our university classes so it was mad
     git clone https://github.com/Egor-Hrotskiy/golden-rise.git
 ### 2. Compile the game
     make
-### 3. Launch the game
+### 3. Navigate into the repository
+    cd golden-rise
+### 4. Launch the game
     ./endgame
-### 4. Clean up
+### 5. Clean up
     make clean
 <p align="right"><a href="#simple-platformer-game-using-c-and-raylib-made-by-a-team-of-three">(back to the top)</a> </p>
 
