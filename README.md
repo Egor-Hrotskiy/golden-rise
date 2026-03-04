@@ -100,7 +100,7 @@ This project was given as a task for one of our university classes so it was mad
 
 
 
-<center><img alt="screenshot of the main charcater waving" src='screenshots/character_waving.png'/></center>
+<img alt="screenshot of the main charcater waving" src='screenshots/character_waving.png'/>
 <br>
 <h3 align=center>Hope you enjoy it</h3>
 <br>
